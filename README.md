@@ -4,7 +4,7 @@ Create high-quality custom cards for the [Munchkin](https://munchkin.game/) card
 
 For example:
 
-<img src="https://github.com/tidoe/MunchkinEditor/blob/main/example/Sword_in_the_Stone.png" height="400"/>
+<img src="https://github.com/tidoe/MunchkinEditor/blob/main/preview.png" height="500"/>
 
 (Note that I am not associated with the creators of the Munchkin game in any way.)
 
