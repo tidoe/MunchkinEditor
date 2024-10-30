@@ -10,9 +10,17 @@ For example:
 
 ## Start
 
+### Online
+
+The MunchkinEditor is available at https://tidoe.github.io/MunchkinEditor/.
+
+I recommend using Google Chrome as browser, because the website may not look as expected in some other browsers.
+
+### Local
+
 Download and unzip this repository and save it to a location of your choice on your computer.
 
-Open the file `editor.html` in a browser, e.g. Google Chrome (double-clicking the file should do this).
+Open the file `index.html` in a browser, e.g. Google Chrome (double-clicking the file should do this).
 
 ## Use
 
